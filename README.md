@@ -23,4 +23,5 @@ HR data analysis, your summary should focus on key findings, actionable insights
 Highlight trends, patterns, or issues identified in the data.
 Mention metrics such as employee turnover rates, satisfaction scores, recruitment efficiency, diversity statistics, etc.
 ## dashboard
+- <a href="https://github.com/sudheerbabuk14/hr-data-analysis-excel/blob/main/HR%20DATA_Excel.xlsx"> dashboard <a/>
 
