@@ -1,1 +1,1 @@
-# hr-data-analysis-excel
+# hr-data-analysis-excel-and-sql
