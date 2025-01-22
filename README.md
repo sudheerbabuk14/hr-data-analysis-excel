@@ -17,3 +17,4 @@ dataset: Likely the raw data source.
 data analysis: May contain processed insights or calculations.
 
 ## dashboard interface
+- <a href="https://github.com/sudheerbabuk14/hr-data-analysis-excel/blob/main/Screenshot%202025-01-21%20110114.png" > dashboard </a>
